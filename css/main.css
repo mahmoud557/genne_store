@@ -9,9 +9,9 @@
 .home>top-div{
 	width: 100%;
 	height: 48px;
-	background: red
+	background: var(--background-color);
 	margin-bottom: 1px;
-	border-bottom: red;
+	border-bottom: 1px solid var(--border-color);
 }
 
 .home>.tools-list{
